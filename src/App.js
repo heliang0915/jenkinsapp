@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          APP12345
+          APP更新了
         </a>
       </header>
     </div>
